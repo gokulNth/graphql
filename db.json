@@ -1,0 +1,38 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Overheat in zPhone",
+      "customer": "1"
+    },
+    {
+      "id": "2",
+      "title": "Installation fails",
+      "customer": "2"
+    },
+    {
+      "id": "3",
+      "title": "Transaction misplaced",
+      "customer": "1"
+    },
+    {
+      "id": "k2ycml46",
+      "title": "qwer",
+      "customer": "k2ycmdnr"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Adharva"
+    },
+    {
+      "id": "2",
+      "name": "vijay"
+    },
+    {
+      "id": "k2ycmdnr",
+      "name": "wq"
+    }
+  ]
+}

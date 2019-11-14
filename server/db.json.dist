@@ -1,0 +1,19 @@
+{
+    "tickets": [
+        {
+            "id": "1",
+            "title": "Overheat in zPhone",
+            "author": "1"
+        },
+        {
+            "id": "2",
+            "title": "Installation fails",
+            "author": "2"
+        },
+        {
+            "id": "3",
+            "title": "Transaction misplaced",
+            "author": "1"
+        }
+    ]
+}
